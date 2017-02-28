@@ -1,0 +1,5 @@
+Arrival Time   Voting Duration   Start Time    Departure Time
+     18.64         2.11            18.64             20.75
+
+     19.28         5.13            20.75             25.88
+
